@@ -30,6 +30,35 @@ BioPatch is a modular fusion protein:
 
 ---
 
+## 🧬 Visual Overview
+
+<p align="center">
+  <img src="/docs/concept_sketch.png" alt="BioPatch Concept Sketch" width="600"/>
+  <br/>
+  <em>Conceptual sketch showing BioPatch's healing design</em>
+</p>
+
+---
+
+## 📈 Simulation Results
+
+<p align="center">
+  <img src="/data/RMSF_plot.png" alt="RMSF Simulation Results" width="600"/>
+  <br/>
+  <em>RMSF plot from CABS-flex simulation — confirms flexibility in healing domains</em>
+</p>
+
+---
+
+## 📄 Full Pitch Deck
+
+📥 [View the complete pitch deck (PDF)](/docs/pitch_deck.pdf)
+
+Explore the story, science, and future vision of BioPatch in one concise deck.
+
+---
+
+
 ## 📂 Repository Structure
 
 | Folder | What’s Inside |
