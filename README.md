@@ -54,10 +54,11 @@ Fork this repo or submit a pull request. Let’s build together.
 
 ---
 
-## 🧬 License
+## 📄 License
 
-This work is licensed under [Creative Commons Attribution 4.0 (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).  
-Use it, remix it, build with it. Just give credit and keep it open.
+This project is licensed under the [MIT License](LICENSE).  
+Use it, remix it, build with it — just give credit and include the original license.
+
 
 ---
 
